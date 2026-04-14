@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crop Disease Detection</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+
+<body>
+    
+
+    <h1>AI-Based Crop Disease Detection</h1>
+    
+    <!-- Crop Selection Section -->
+    <section id="crop-selection">
+        <h2>Select a Crop</h2>
+        <select id="cropDropdown">
+            <option value="">-- Select a Crop --</option>
+            <option value="Apple">Apple</option>
+
+            <option value="Tomato">Tomato</option>
+            <option value="Peach">Peach</option>
+            <option value="Corn_(maize)">Corn (Maize)</option>
+
+            <option value="Potato">Potato</option>
+            <option value="Grape">Grape</option>
+
+            <option value="Orange">Orange</option>
+            <option value="Pepper,bell">Bell Pepper</option>
+
+        </select>
+    </section>
+
+    <!-- Disease Info Section -->
+    <section id="disease-info">
+        <h2>Common Diseases for Your Selected Crop</h2>
+        <div id="disease-list"></div>
+    </section>
+
+    <section>
+    <form action="{{ url_for('predict') }}" method="POST" enctype="multipart/form-data">
+        <h2>Upload Your Crop Leaf Image</h2>
+        <input type="file" name="image" id="imageInput" accept="image/*" required>
+        <img id="preview" src="#" alt="Image Preview" style="display: none;">
+        <button type="submit">Analyze</button>
+    </form>
+    </section>
+    
+    <!-- Result Section -->
+    <section id="result-section">
+    <h2>Detection Result</h2>
+    <p id="crop-mapping">Name of the detected crop is : {{name}}</p>
+    <p id="disease-name">Disease detected is : {{ disease }}</p>
+   <!-- <p id="temperature">Temperature : {{temperature}}</p>  
+    <p id="humidity">Humidity : {{humid}}</p>  -->
+    <p id="disease-severity">Environmental Severity Risk : {{ severity }}</p>
+    <p id="genetic suggestion"><u>Genetic Suggestions : </u><br><br>{{ genetic_suggestions|safe }}</p>
+    </section>
+    
+    
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+    
+</body>
+</html>
+

@@ -1,0 +1,64 @@
+Crop,Disease,Genetic Modification,Efficiency of the Modification (%)
+Potato,Late blight,CRISPR-Cas9 to target genes for resistance to Phytophthora infestans,85%
+Potato,Late blight,Genetic engineering to overexpress the Rpi-blb2 gene for late blight resistance,80%
+Potato,Late blight,Introduction of resistance from wild Solanum species,82%
+Potato,Early blight,Transgenic potato expressing Bacillus thuringiensis (Bt) toxin,75%
+Potato,Early blight,Engineering for resistance to Alternaria solani using synthetic biology,78%
+Potato,Early blight,"Expression of antifungal peptides (e.g., Chitinases) for controlling Alternaria",70%
+Corn,Common rust,RNA interference (RNAi) to silence the gene expression of the rust pathogen,80%
+Corn,Common rust,Overexpression of Co1 resistance gene from wild maize species,77%
+Corn,Common rust,Use of genetically modified maize with high resistance to Puccinia sorghi,83%
+Corn,Northern Leaf Blight,Introduction of resistance genes such as Htn1 using CRISPR-Cas9,79%
+Corn,Northern Leaf Blight,Expression of ToxA resistance genes through transgenic approaches,75%
+Corn,Northern Leaf Blight,Use of maize lines with enhanced immunity from natural sources,72%
+Tomato,Tomato mosaic virus,Genetic modification for resistance to Tomato mosaic virus using RNAi,88%
+Tomato,Tomato mosaic virus,Transgenic tomatoes expressing a protein that blocks virus replication,90%
+Tomato,Tomato mosaic virus,CRISPR-based resistance targeting viral replication machinery,85%
+Tomato,Tomato Yellow Leaf Curl Virus,Use of viral RNA silencing through transgenic tomatoes,90%
+Tomato,Tomato Yellow Leaf Curl Virus,Incorporation of TYLCV resistance genes into tomato genome using gene editing,87%
+Tomato,Tomato Yellow Leaf Curl Virus,Genetic modifications that boost the tomato plant’s immune response against TYLCV,83%
+Tomato,Bacterial spot,Overexpression of antimicrobial peptides to combat Xanthomonas,85%
+Tomato,Bacterial spot,"Expression of resistance proteins (e.g., R genes) for improved immunity",88%
+Tomato,Bacterial spot,Genetic modification to activate systemic acquired resistance pathways,80%
+Apple,Apple scab,Engineering of apples to express Vf gene for scab resistance,82%
+Apple,Apple scab,CRISPR-edited apple varieties with improved resistance to Venturia inaequalis,85%
+Apple,Apple scab,Genetic modifications to increase phenolic compounds that inhibit fungal growth,78%
+Apple,Cedar apple rust,Expression of Cr1 resistance gene in apple trees to combat rust,75%
+Apple,Cedar apple rust,Development of apple varieties resistant to Gymnosporangium via gene editing,80%
+Apple,Cedar apple rust,Genetic engineering for enhanced resistance to rust pathogens using pathogen-derived resistance,72%
+Grape,Black rot,Transgenic grapes with enhanced resistance to Guignardia bidwellii,84%
+Grape,Black rot,Expression of antifungal proteins to prevent Black Rot in grapevines,82%
+Grape,Black rot,CRISPR-based alteration of grapevine genes to inhibit infection by the pathogen,80%
+Grape,Esca (Black Measles),Transgenic grapevines resistant to Fusarium species causing Esca,75%
+Grape,Esca (Black Measles),Genetic modification using natural grapevine resistance mechanisms,78%
+Grape,Esca (Black Measles),Overexpression of antioxidants in grapevines to reduce fungal infections,70%
+Orange,Huanglongbing (Citrus greening),CRISPR-Cas9-based citrus plants with enhanced bacterial resistance,90%
+Orange,Huanglongbing (Citrus greening),Expression of antimicrobial peptides against Candidatus Liberibacter,85%
+Orange,Huanglongbing (Citrus greening),Genetic modification of rootstocks to improve citrus greening resistance,92%
+Strawberry,Leaf scorch,Genetic modification for enhanced drought tolerance to reduce scorch symptoms,80%
+Strawberry,Leaf scorch,Overexpression of heat shock proteins (HSP) to improve plant resilience,75%
+Strawberry,Leaf scorch,Transgenic strawberries with increased phenolic production for stress tolerance,78%
+Peach,Leaf Mold,Genetic engineering for enhanced resistance to Cladosporium species,74%
+Peach,Leaf Mold,Expression of chitinase enzymes in peach trees for fungal resistance,72%
+Peach,Leaf Mold,Engineering peach trees to activate defense genes in response to fungal stress,70%
+Soybean,Cercospora leaf spot,Soybean varieties modified for enhanced resistance to Cercospora sojina,80%
+Soybean,Cercospora leaf spot,Expression of antifungal peptides for controlling Cercospora,82%
+Soybean,Cercospora leaf spot,RNAi to silence genes involved in the pathogen’s infection process,78%
+Soybean,Gray leaf spot,Use of Gs resistance genes through transgenic soybean,80%
+Soybean,Gray leaf spot,Genetic modification to enhance defense pathways against Cercospora,76%
+Soybean,Gray leaf spot,Overexpression of enzymes that degrade fungal cell walls,75%
+Blueberry,Spider mites (Two-spotted spider mite),Genetic modification of blueberries to express insecticidal proteins against spider mites,85%
+Blueberry,Spider mites (Two-spotted spider mite),CRISPR-based editing to enhance mite resistance in blueberry genes,88%
+Blueberry,Spider mites (Two-spotted spider mite),Transgenic blueberry plants with enhanced resistance to herbivore pests,82%
+Squash,Powdery mildew,Genetic modification to express antifungal proteins like PR proteins,80%
+Squash,Powdery mildew,Overexpression of plant immune receptor genes to reduce mildew symptoms,77%
+Squash,Powdery mildew,RNA interference to silence genes that facilitate the pathogen’s growth,79%
+Cherry,Leaf blight (Isariopsis Leaf Spot),Genetic modification to increase resistance to fungal pathogens,82%
+Cherry,Leaf blight (Isariopsis Leaf Spot),Overexpression of a fungal resistance gene in cherry trees,85%
+Cherry,Leaf blight (Isariopsis Leaf Spot),Engineering cherries with improved systemic acquired resistance pathways,78%
+Raspberry,Target Spot,Transgenic raspberries with resistance to Alternaria species,80%
+Raspberry,Target Spot,Expression of pathogen-induced proteins to increase resistance to Alternaria,82%
+Raspberry,Target Spot,Genetic modification to enhance phenolic compound production,75%
+Pepper,Bacterial spot,Genetic modification to express Xanthomonas resistance genes,90%
+Pepper,Bacterial spot,Engineering peppers with increased resistance to Xanthomonas through gene editing,85%
+Pepper,Bacterial spot,Overexpression of antimicrobial peptides to fight bacterial infection,80%
