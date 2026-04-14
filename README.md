@@ -4,17 +4,17 @@ This project is an AI-powered web application that detects crop diseases and env
 
 🚀 Features
 
-🌿 Crop disease detection using image input
+1. Crop disease detection using image input
 
-📊 Environmental stress detection (drought, water stress)
+2. Environmental stress detection (drought, water stress)
 
-🌦️ Weather-based severity analysis
+3. Weather-based severity analysis
 
-🧬 Genetic modification suggestions based on crop and disease
+4. Genetic modification suggestions based on crop and disease
 
-🤖 Intelligent recommendations using Random Forest
+5. Intelligent recommendations using Random Forest
 
-⚡ Real-time prediction via web interface
+6. Real-time prediction via web interface
 
 
 🧠 Tech Stack
